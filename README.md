@@ -10,4 +10,5 @@ or
 https://drive.google.com/file/d/1c0G2LzbH-XU37TCr45m9CRlkqGkmPbYD/view?usp=sharing
 
 
-Structure of six CNNs are collected in 
+
+Structure of six CNNs are collected in six_CNNs.py
